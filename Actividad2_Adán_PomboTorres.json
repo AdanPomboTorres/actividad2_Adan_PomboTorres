@@ -1,0 +1,16 @@
+{
+	"nombre": "Pedro García",
+
+	"alias": "@pedro_g",
+
+	"followers":["@juanjo_p", "@jose_l", "@manolo_c"],
+
+	"contenido":"Paseando al perro",
+
+	"retweets": "13",
+
+	"megusta": "28",
+
+	"comentarios":["Buen paseo", "Bonito perro","Prefiero un gato"]	
+
+}

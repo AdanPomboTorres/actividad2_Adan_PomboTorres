@@ -1,0 +1,25 @@
+<tweet>
+	<usuario>
+		<nombre>Pedro García</nombre>
+
+		<alias>@pedro_g</alias>
+
+		<followers>
+			<follower>@juanjo_p</follower>
+			<follower>@jose_l</follower>
+			<follower>@manolo_c</follower>
+		</followers>
+	</usuario>
+
+	<contenido>Paseando al perro</contenido>
+
+	<retweets>13</retweets>
+
+	<megusta>28</megusta>
+
+	<comentarios>
+		<comentario>Buen paseo</comentario>
+		<comentario>Bonito perro</comentario>
+		<comentario>Prefiero un gato</comentario>
+	</comentarios>
+</tweet>
